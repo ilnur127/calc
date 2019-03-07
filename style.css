@@ -1,0 +1,63 @@
+.input-raw {
+    font-size: 40px;
+    color: white;
+    text-align: right;
+    height: 60px;
+    padding: 20px;
+}
+
+.whi {
+    background: white;
+    color: black;
+    font-size: 20px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.gr {
+    background: gray;
+    color: black;
+    font-size: 20px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.yel {
+    background: yellow;
+    color: black;
+    font-size: 20px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.btn-raw {
+    overflow: hidden;
+}
+
+.btn-raw div {
+    float: left;
+    text-align: center;
+    margin: 5px;
+}
+
+.container {
+    background: black;
+    width: 260px;
+    padding: 10px;
+}
+
+.btn-raw span {
+    position: relative;
+    top: 25%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.zero {
+    width: 110px;
+    border-radius: 25px;
+}
